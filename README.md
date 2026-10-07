@@ -45,7 +45,7 @@ Um sistema simples onde o freelancer:
 - [Funcionalidades](docs/03-funcionalidades.md)
 - [Modelo de Negócio](docs/04-modelo-negocio.md)
 - [Roadmap](docs/05-roadmap.md)
-- [*Caso de Uso*](docs/caso-de-uso.md)
+- [**Diagrama de Caso de Uso**](docs/diagrama-caso-de-uso.md) 🗺️
 ## 📌 Status do Projeto
 
 🚧 *Em fase de planejamento* — estrutura inicial sendo construída.
