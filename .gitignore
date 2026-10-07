@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+_pycache_/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Banco de dados local
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dados locais do usuário
+data/
+exports/
