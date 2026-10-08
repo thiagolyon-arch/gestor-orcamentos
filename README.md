@@ -46,6 +46,7 @@ Um sistema simples onde o freelancer:
 - [Modelo de Negócio](docs/04-modelo-negocio.md)
 - [Roadmap](docs/05-roadmap.md)
 - [**Diagrama de Caso de Uso**](docs/diagrama-caso-de-uso.md) 🗺️
+- [Telas figma] https://www.figma.com/proto/CFr7VtIHFbXWFJOslGU9mZ/Sem-t%C3%ADtulo?node-id=2-2307&p=f&t=tZpjMpKwK7W4qFva-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 ## 📌 Status do Projeto
 
 🚧 *Em fase de planejamento* — estrutura inicial sendo construída.
