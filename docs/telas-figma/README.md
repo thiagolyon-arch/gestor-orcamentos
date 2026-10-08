@@ -13,7 +13,7 @@ Esta pasta contém as telas do *Gestor de Orçamentos* exportadas do Figma.
 
 ## 🔗 Link do Projeto no Figma
 
-https://www.figma.com/design/CFr7VtIHFbXWFJOslGU9mZ/Sem-t%C3%ADtulo?node-id=0-1&t=tZpjMpKwK7W4qFva-1
+https://www.figma.com/proto/CFr7VtIHFbXWFJOslGU9mZ/Sem-t%C3%ADtulo?node-id=2-2307&p=f&t=tZpjMpKwK7W4qFva-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## 📝 Observações
 
